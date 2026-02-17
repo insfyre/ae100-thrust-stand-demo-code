@@ -1,5 +1,6 @@
 Last updated 11/20/2025 by Eugene
-Sean Lee, Eugene Lim, Ahmed Khan
+
+By Sean Lee, Eugene Lim, Ahmed Khan
 
 
 
@@ -106,3 +107,4 @@ Changelog:
 * 11/01/2025: Set default scaling factor based on measured weight of calculator, added
 * 11/15/2025: Added "kill on window close" functionality (sys.exit())
 * 11/20/2025: Fixed kill on close functionality to only happen on window close, not when stop button is pressed. Added free pan feature from Matplotlib
+
